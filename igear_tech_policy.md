@@ -5,7 +5,7 @@ The current VPS will be refferred to as **iGearVPS**
 
 ##New Projects
 ###Project name
-All projects will recieve a consise, distinct, typable and memorable project name that consists of a single word.
+All projects will recieve a concise, distinct, typable and memorable project name that consists of a single word.
 
 > N.B. The project name is never the the client name!
 
